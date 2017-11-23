@@ -1,11 +1,11 @@
 {
-  "name": "ChattyChat",
+  "name": "ReactTemplate",
   "version": "1.0.0",
-  "description": "Realtime chat app made for university class.",
+  "description": "React application start template.",
   "main": "index.js",
-  "repository": "https://github.com/ollilappalainen/chattychat.git",
+  "repository": "https://github.com/ollilappalainen/ReactAppTemplate",
   "author": "Olli Lappalainen",
-  "license": "MIT",
+  "license": "GNU 3.0",
   "private": false,
   "scripts": {
     "start": "webpack-dev-server"
